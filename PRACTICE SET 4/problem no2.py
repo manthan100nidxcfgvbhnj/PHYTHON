@@ -1,0 +1,16 @@
+marks = []
+F1 = int(input ("enter marks here : "))
+marks.append(F1)
+F2 = int(input ("enter marks here : "))
+marks.append(F2)
+F3 = int(input ("enter marks here : "))
+marks.append(F3)
+F4 = int(input ("enter marks here : "))
+marks.append(F4)
+F5 = int(input ("enter marks here : "))
+marks.append(F5)
+F6 = int(input ("enter marks here : "))
+marks.append(F6)
+marks.sort()
+print(marks)
+     
